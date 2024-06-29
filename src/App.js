@@ -1,6 +1,5 @@
 import "./App.css";
 import Navigation from "./customer/components/Navigation";
-import Je from "./customer/Je";
 
 function App() {
   return (
